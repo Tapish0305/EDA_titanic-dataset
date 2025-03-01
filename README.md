@@ -1,4 +1,4 @@
-#LGBM Classifier
+# LGBM Classifier
 LightGBM (Light Gradient Boosting Machine) is a high-performance gradient boosting framework that is designed for speed and efficiency. It is particularly well-suited for large datasets and complex classification or regression tasks.
 # Overview
 This repository contains a Jupyter Notebook implementing a LightGBM Classifier for predictive modeling. The notebook utilizes LightGBM, an optimized gradient boosting framework that is efficient, fast, and highly scalable for classification tasks.
